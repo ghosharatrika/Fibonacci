@@ -1,3 +1,5 @@
+# To calculate 10 terms of Fibonacci series
+
 fibonacci_numbers = [0, 1]  # list of fibonacci no. with two initial values created
 
 while len(fibonacci_numbers) < 10:
